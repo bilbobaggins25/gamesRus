@@ -1,3 +1,3 @@
 # gamesRus
 
-http://bilbobaggins25.github.io/gamesRus/agar.io.html
+http://bilbobaggins25.github.io/gamesRus/home-page.html
